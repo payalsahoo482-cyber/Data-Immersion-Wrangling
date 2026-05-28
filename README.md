@@ -31,4 +31,3 @@ A cleaned and analysis-ready dataset was generated successfully and saved as `cl
 ## Outcome
 This project helped in understanding real-world data preprocessing techniques which are essential before performing any data analysis or machine learning tasks.
 
-A clean and analysis-ready dataset was successfully generated.
